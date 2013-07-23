@@ -1,0 +1,10 @@
+TeamSalesForAndroid.SplashScreen;teamsalesforandroid.SplashScreen
+TeamSalesForAndroid.Home;teamsalesforandroid.Home
+TeamSalesForAndroid.Customers;teamsalesforandroid.Customers
+TeamSalesForAndroid.Orders;teamsalesforandroid.Orders
+TeamSalesForAndroid.Items;teamsalesforandroid.Items
+TeamSalesForAndroid.Shop;teamsalesforandroid.Shop
+TeamSalesForAndroid.Syncronize;teamsalesforandroid.Syncronize
+TeamSalesForAndroid.MainActivity;teamsalesforandroid.MainActivity
+TeamSalesForAndroid.Tools;teamsalesforandroid.Tools
+TeamSalesForAndroid.GiroVisite;teamsalesforandroid.GiroVisite

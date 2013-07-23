@@ -1,0 +1,29 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TeamSalesForAndroid/MainActivity.cs">
+    <Files>
+      <File FileName="TeamSalesForAndroid/MainActivity.cs" Line="22" Column="12" />
+      <File FileName="TeamSalesForAndroid/Home.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Customers.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Orders.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Items.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Shop.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Syncronize.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/Tools.cs" Line="1" Column="1" />
+      <File FileName="TeamSalesForAndroid/GiroVisite.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maltomare/Projects/TeamSalesForAndroid/TeamSalesForAndroid/MainActivity.cs" line="102" column="1" />
+      <Breakpoint file="/Users/maltomare/Projects/TeamSalesForAndroid/TeamSalesForAndroid/MainActivity.cs" line="115" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TeamSalesForAndroid MonoForAntroid.PreferredDevice="10.1in WXGA (Tablet)" AndroidDeviceId-Debug="001988553469ae" />
+</Properties>
