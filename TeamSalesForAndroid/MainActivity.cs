@@ -105,10 +105,11 @@ namespace TeamSalesForAndroid
 
 			if (newConfig.Orientation == Android.Content.Res.Orientation.Portrait) 
 			{
-
-			} else if (newConfig.Orientation ==  Android.Content.Res.Orientation.Landscape) 
+                //
+			} 
+            else if (newConfig.Orientation ==  Android.Content.Res.Orientation.Landscape) 
 			{
-
+                //
 			}
 		}
 
