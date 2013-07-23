@@ -23,6 +23,7 @@ namespace TeamSalesForAndroid
 	
 		}
 
+
 		void CreaTabs()
 		{
 			TabHost.TabSpec spec;     // Resusable TabSpec for each tab
