@@ -6,6 +6,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+//test
 namespace TeamSalesForAndroid
 {
 	//[Activity (Label = "TeamSales", MainLauncher = true, Icon="@drawable/Icon72", ConfigurationChanges=Android.Content.PM.ConfigChanges.Orientation)]
